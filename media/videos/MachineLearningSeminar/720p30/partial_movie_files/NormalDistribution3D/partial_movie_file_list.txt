@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/ricardo/ETH/MachineLearningSeminar/media/videos/MachineLearningSeminar/720p30/partial_movie_files/NormalDistribution3D/417980866_3793132056_3960847755.mp4'
+file 'file:/home/ricardo/ETH/MachineLearningSeminar/media/videos/MachineLearningSeminar/720p30/partial_movie_files/NormalDistribution3D/3577939652_1420216887_3440106084.mp4'
+file 'file:/home/ricardo/ETH/MachineLearningSeminar/media/videos/MachineLearningSeminar/720p30/partial_movie_files/NormalDistribution3D/3577939652_1413898976_1720159504.mp4'
+file 'file:/home/ricardo/ETH/MachineLearningSeminar/media/videos/MachineLearningSeminar/720p30/partial_movie_files/NormalDistribution3D/3577939652_3494816192_3028888107.mp4'
+file 'file:/home/ricardo/ETH/MachineLearningSeminar/media/videos/MachineLearningSeminar/720p30/partial_movie_files/NormalDistribution3D/462014825_4017780954_2515658480.mp4'
+file 'file:/home/ricardo/ETH/MachineLearningSeminar/media/videos/MachineLearningSeminar/720p30/partial_movie_files/NormalDistribution3D/105961410_3494816192_2932549730.mp4'
+file 'file:/home/ricardo/ETH/MachineLearningSeminar/media/videos/MachineLearningSeminar/720p30/partial_movie_files/NormalDistribution3D/3727448966_72706173_2952038974.mp4'
